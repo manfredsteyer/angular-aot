@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es5",
+    "outDir": "dist/unbundled",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+   "lib": [
+      "es6",
+      "dom"
+    ]
+    
+  },
+
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

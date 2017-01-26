@@ -1,0 +1,1 @@
+{"summaries":[{"symbol":{"__symbol":0},"metadata":{"__symbolic":"class"},"type":{"summaryKind":0,"type":{"reference":{"__symbol":0},"diDeps":[],"lifecycleHooks":[]},"name":"city","pure":true}}],"symbols":[{"__symbol":0,"name":"CityPipe","filePath":"C:/Users/Manfred/Documents/artikel/Blog/angular2-aot/aot.material/app/pipes/city.pipe.d.ts"}]}
